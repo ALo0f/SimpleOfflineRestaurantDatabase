@@ -1,0 +1,8 @@
+BurgerKing FastFood 8574720258 3 True
+Wendy FastFood 8573211234 3 True
+1 1 1 1 True
+13 12 2 1 False
+1 1 1 11 False
+aaa aaa 132 1322 False
+111 2312 334 122 False
+McDonald fastfood 4008823823 30 False
